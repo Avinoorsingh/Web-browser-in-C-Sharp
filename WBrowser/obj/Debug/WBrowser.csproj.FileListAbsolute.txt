@@ -1,0 +1,36 @@
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\Usman\Desktop\WEB BROWSER\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Usman\Documents\Visual Studio 2010\Projects\WBrowser\WBrowser\obj\Debug\GenerateResource.write.1.tlog
